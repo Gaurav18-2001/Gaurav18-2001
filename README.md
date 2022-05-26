@@ -1,6 +1,6 @@
 ### Hello, I'm Gaurav 👋🏻
 
- <img align="right" alt="GIF" src="https://github.com/Gaurav18-2001/temp/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/Gaurav18-2001/Gaurav18-2001/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
 ## I'm a Student, Data Engineering Enthusiast, Developer, and Singer!!
