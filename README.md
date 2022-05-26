@@ -4,7 +4,7 @@
 
 
 ## I'm a Student, Data Engineering Enthusiast, Developer, and Singer!!
-- ✍ You can find my projects here   <!--[portfolio]-->
+- ✍ You can find my projects here  
 - 🔭 I’m currently working on my Data Engineering concepts.
 - 🌱 I’m currently learning Scala and Azure
 - 👯 I’m looking to collaborate on open source
@@ -44,15 +44,6 @@
 
 </details>
 
-<!-- <details>
-  <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
-
-</details> -->
-
-<!-- [website]: https://holistic-developer.com/ -->
-<!-- [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw -->
-<!-- [instagram]: https://www.instagram.com/holistic_developer/ -->
 [linkedin]: https://www.linkedin.com/in/gaurav-srivastava-21537a1bb/
-<!-- [portfolio]:  -->
+
