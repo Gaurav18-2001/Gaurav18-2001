@@ -4,7 +4,7 @@
 
 
 ## I'm a Student, Data Engineering Enthusiast, Developer, and Singer!!
-- ✍ You can find my projects here [portfolio]
+- ✍ You can find my projects here: [portfolio]
 - 🔭 I’m currently working on my Data Engineering concepts.
 - 🌱 I’m currently learning Scala and Azure
 - 👯 I’m looking to collaborate on open source
